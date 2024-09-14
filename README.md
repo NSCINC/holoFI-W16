@@ -1,5 +1,5 @@
 
-## 🔱🌎 RubyX HoloFi 🌎 🔱
+## 🌎 RubyX HoloFi 🌎 
 
 ![RubyX](https://img.shields.io/badge/rubyX-%23CC342D.svg?style=for-the-badge&logo=rubyX&logoColor=white)
 ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
