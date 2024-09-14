@@ -83,5 +83,4 @@ HOLLOW W16 is at the cutting edge of blockchain technology, providing a robust p
 <img src="A.PNG" alt="Hollow Ether Logo">
 
 ---
-
-Se precisar de mais ajustes, só avisar!
+THAKS YOU
