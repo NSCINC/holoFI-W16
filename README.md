@@ -1,8 +1,6 @@
-Claro! Aqui está a versão atualizada do README, com Java e TypeScript adicionados, SQL incluído, e Go removido:
 
----
 
-## 🔱🌎 HOLLOW V8🌎 🔱
+## 🔱🌎 rubyx holofi 🌎 🔱
 
 ![RubyX](https://img.shields.io/badge/rubyX-%23CC342D.svg?style=for-the-badge&logo=rubyX&logoColor=white)
 ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -71,7 +69,7 @@ HOLLOW V8 integrates innovative solutions for hybrid digital asset creation and 
 
 HOLLOW V8 is at the cutting edge of blockchain technology, providing a robust platform for decentralized applications and digital asset management. With advanced integrations like planetary functionalities and quantum computing capabilities, HOLLOW V8 is set to redefine the blockchain landscape.
 
-For more information, visit [HOLLOW V8](https://nscio.vercel.app/)
+
 
 <p>FOUNDER: LUCAS JANAURIO DO NASCIMENTO</p>
 
